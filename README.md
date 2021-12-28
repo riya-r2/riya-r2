@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riya-r2
 - 👀 I’m interested in enhancing my coding skills
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pythoon projects
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me - 
 
 <!---
